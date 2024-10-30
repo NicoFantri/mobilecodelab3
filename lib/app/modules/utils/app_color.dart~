@@ -1,0 +1,12 @@
+import 'package:flutter/material.dart';
+
+class AppColor {
+  final Color colorPrimary = Color(0xFFF5F5F5);
+  final Color colorSecondary = Colors.blue;
+  final Color colorTertiary = Colors.blueAccent;
+  final Color colorDanger = Colors.red;
+  final Color colorSuccess = Colors.green;
+  final Color colorWarning = Colors.orange;
+  final Color textPrimary = Colors.black87;
+  final Color textSecondary = Colors.black54;
+}
